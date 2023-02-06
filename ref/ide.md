@@ -82,24 +82,10 @@ Click "Run".
 !['A screenshot of showing the checked box to add Python to PATH.']({{ site.baseurl }}/assets/images/ide/python-3.11.1-windows-click-add-python.exe_to_path.gif)
 
 
-This will help your computer know where the Python interpreter is located. 
-You won’t fail if this is not marked, but it can bring some small difficulties to you next. 
-(_If you want to know more about that - look up "Environment Variable PATH"_.)
-
-If later you will have some failures in installation (unlikely) you can restart the installation without any checkmark here.
-
-#### Save the Python path
-
-<span style="color:blue">Copy or Print Screen or manually write down the line below the “Install now” line.</span>
-It will tell you where your Python Interpreter stored. You will need it if you want to run Python on the Python Interpreter (something that we are not going to do in this course).
-
-!['A screenshot of the Python PATH.']({{ site.baseurl }}/assets/images/ide/python-path.png)
-
-
 ### Step 5. Install
 
 Press the “Install Now” line.
-!['A screenshot of the setup progress.']({{ site.baseurl }}/assets/images/ide/setup-progress.png)
+!['A screenshot of the setup progress.']({{ site.baseurl }}/assets/images/ide/python-3-11-1-windows-install-click-install-now.gif)
 
 Wait until the installation process is finished.
 
