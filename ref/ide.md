@@ -92,7 +92,7 @@ Wait until the installation process is finished.
 
 ### Step 6. Celebrate
 
-You should now see the “Setup Successful” line as shown in the animation above. 
+You should now see the “Setup was Successful” line as shown in the animation above. 
 
 Congratulations! You’ve successfully done the installation. Now we learn how to check that the Python interpreter works.
 
