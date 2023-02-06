@@ -90,13 +90,13 @@ Press the “Install Now” line.
 Wait until the installation process is finished.
 
 
-### Step 6. Celebrate or Troubleshoot
+### Step 6. Celebrate
 
-See the “Installation was Successful” line. If you have not seen it, or you saw “Installation Failed” - that means your Python Interpreter is not installed! Return to the previous steps.
-!['A screenshot of the successful setup screen.']({{ site.baseurl }}/assets/images/ide/setup-success.png)
-
+You should now see the “Setup Successful” line as shown in the animation above. 
 
 Congratulations! You’ve successfully done the installation. Now we learn how to check that the Python interpreter works.
+
+If something went wrong, please seek out help during lab or office hours.
 
 ---
 
