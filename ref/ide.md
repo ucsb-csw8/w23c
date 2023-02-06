@@ -125,10 +125,14 @@ Open IDLE on your computer. If you have installed Python - IDLE goes with it in 
 ⚠️  **IMPORTANT**: When IDLE opens, it opens what is called a **Python Console** - you'll see **"IDLE Shell"** or **"Python Shell"** when you look at the very top of that window.
 * If you are seeing `Type "help", "copyright", "credits" or "license()" for more information.` in this window, then you are in the IDLE Python Shell.
 * <span style="color:red">**DO NOT** use the IDLE/Python Shell to _write_ the code for this class.</span>
+* <span style="color:green">**INSTEAD** use the "New File" to open a new window when you want to write code (as explained below)</span>
 
-Instead, **create a new file**, so that your code will be saved on your computer and can be re-run.
+Here's why:
+* When you **create a new file**, your code will be saved on your computer and can be re-run easily.
+* Code you type into the **IDLE Shell** is intended for quick experiments; it cannot be saved in a way that it can be re-run easily.
 
 ### Create a new Python file in IDLE
+
 !['A screenshot of the menu showing how to create a new file using New File submenu.']({{ site.baseurl }}/assets/images/ide/new-file.png)
 
 Use `“File” -> “New File”` to create a new file or `“File” -> “Open”` to open one that you previously created. 
