@@ -78,7 +78,8 @@ Click "Run".
 ### Step 4. IMPORTANT! 
 #### Add Python to the PATH
 **IMPORTANT!** If you are on a Windows system - <span style="color:red"> make sure that the last checkbox is marked!</span>
-!['A screenshot of showing the checked box to add Python to PATH.']({{ site.baseurl }}/assets/images/ide/check-add-to-path.png)
+
+!['A screenshot of showing the checked box to add Python to PATH.']({{ site.baseurl }}/assets/images/ide/python-3.11.1-windows-click-add-python.exe_to_path.gif)
 
 
 This will help your computer know where the Python interpreter is located. 
