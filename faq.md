@@ -48,7 +48,7 @@ Please see the answer above and the ["Attendance"](#attendance) section below fo
 
 ### Do labs happen during the section time?
 
-Yes, the **Wednesday** section time that you are enrolled in is the lab time.
+Yes, the **{{ site.lab_day }}** section time that you are enrolled in is the lab time.
 
 
 ### How do we check when our lab is?
@@ -60,17 +60,19 @@ Check your schedule on [GOLD](https://my.sa.ucsb.edu/gold/login.aspx).
 
 
 ### Can I change/switch my lab section?
-
+<!--
 Yes, you are welcome to attend whichever lab section works with your schedule. 
 No need to get a new add code and switch it on GOLD. 
 Just make sure that when you are registering for your zyBook, you **select the section that you are _going to be attending_**.
+-->
+This will be covered in the first class of the quarter.
 
 See the ["Attendance"](#attendance) section below for more information.
 
 
 ### Are lab activities and lab sessions not the same thing?
 
-We refer to the Wednesday lab section times as _lab sessions_. The _lab activities_ (LAs) that you complete in zyBooks are different from the session times - they refer to the lab assignments posted in zyBooks.
+We refer to the {{ site.lab_day }} lab section times as _lab sessions_. The _lab activities_ (LAs) that you complete in zyBooks are different from the session times - they refer to the lab assignments posted in zyBooks.
 
 
 ### What is the "Lab Checkpoint" score in gradebook?
@@ -150,7 +152,7 @@ Related questions:
 * How many attempts do I have to submit zyBook activities? 
 * Do we have unlimited attempts to submit our labs?
 
-You have unlimited attempts. You can also work on the problems after the deadline, but your progress will not count toward your score.
+You have unlimited/infinite attempts. You can also work on the problems after the deadline, but your progress will not count toward your score.
 
 
 
@@ -195,12 +197,10 @@ If you have multiple accounts on Piazza with different email addresses, you can 
 * select “[Account/Email Settings](https://piazza.com/account_settings)”
 * add your email under “Other emails”.
 
-_Note: As was mentioned in the Welcome Email sent from Gauchospace ("Spring into action with CSW 8 (S22)!"), you will receive an email about being added to Piazza on **Tuesday evening**, after the first lecture, once we close the waitlist._
-
 
 ### I do not see the "CSW 8" course on Gradescope and/or Piazza. What can I do?
 
-Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu). 
+Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu) and activated it using the link that was sent to you by Piazza. 
 
 You might need to go through the activation link in the email sent to you by Gradescope/Piazza.
 
@@ -222,6 +222,14 @@ We recommend submitting your code to Gradescope periodically to backup your subm
 ### If we submit our labs onto Gradescope multiple times, will the newest version be the one graded?
 
 Yes, your latest submission will be the one that’s used for grading.
+
+---
+
+## iClicker
+
+### Do I need to buy a physical remote?
+
+No remote is necessary. You need to use either the web interface or install the iClicker app on a mobile device.
 
 ---
 
@@ -260,7 +268,7 @@ It's a low-stress way to take a look at the past week and the activities for the
 ### Where do I find the weekly reflections?
 
 They will normally be posted on Gauchospace on Thursday, around 1pm.
-This quarter, we will administer them as a google form.
+This quarter, we will administer them through a google form.
 
 ### I cannot access the reflection form - the link it says I need permission to view the link.
 
@@ -271,7 +279,7 @@ Not quite.
 
 While the reflections are intended as a learning tool for you, since you will receive credit for submitting them, we want to make sure that your answers make sense and that you have put reasonable effort and thought into it.
 
-If you have nonsensical answers, we can give you a lower score for your submission.
+If you have nonsensical answers, we reserve the right to give you a lower score for your submission.
 
 ---
 
@@ -298,13 +306,14 @@ This course has a consistent weekly pattern to help you manage your workload and
 Set those dates and reminders on your calendar to proactively keep track of the assignments yourself.
 See additional information and resources that we provided on the [How to Succeed in CSW 8]({{site.url}}/{{site.baseurl}}/about) page. 
 
-Mondays, Tuesdays and Wednesdays are when the zyBooks activities are due (**hard deadlines**) and are expected to be completed. 
-We recommend finishing your work in zyBooks **_before_** those times (e.g., try to finish everything the night before it is due, so that you have enough time to ask for help). 
+We recommend finishing your work in zyBooks **_before_** the due times (e.g., try to finish everything the night before it is due, so that you have enough time to ask for help). 
 
 In-class quizzes and activities will assume that you have completed the materials. 
 
+<!--
 If you know in advance that you will not be able to complete the activities before the due date, you can submit a request for an extension. 
 The extension is there to give you a chance to finish up the activity or two; it is not intended for you to spend the entire day trying to get from 0 to 100%.
+-->
 
 We cannot stress enough how important it is to create a study plan for this class and to follow it consistently.
 
@@ -341,11 +350,13 @@ See the corresponding section in the [Syllabus]({{site.url}}/{{site.baseurl}}/ab
 Synchronous class time and lab section attendance are **required**. 
 We will have quizzes and participation activities during the scheduled class, so having a conflict with another class/activity might jeopardize your ability to participate (potentially affecting your grade).
 
-Whenever possible/reasonable, we will record those sessions and post them on Gauchospace (under that Week's tab) for you to review/refer to them. 
+Whenever possible/reasonable, we will record those sessions and post them on Gauchospace for you to review/refer to them. 
 These recordings are not a substitute for your participation.
 
+<!--
 If the **lab section** that you are registered for conflicts with your schedule, feel free to attend the section that works for you (there's no need to make any changes on GOLD).
 When registering for zyBooks, select the lab section that you _plan to attend_.
+-->
 
 
 ### Getting Help
@@ -358,7 +369,7 @@ Below are the main ways for you to ask for help (from fastest to slowest respons
 
 * class time and lab sessions are the dedicated synchronous times when you can (and should!) ask questions.
 
-* Prof. K can stay right after class and can also meet with you by appointment: you can book a meeting through a link posted on the office hours page or send a message to the **Instructors** on the forum, requesting to meet at a specific time. 
+<!-- * Prof. K can stay right after class and can also meet with you by appointment: you can book a meeting through a link posted on the office hours page or send a message to the **Instructors** on the forum, requesting to meet at a specific time. -->
 
 * we have [synchronous Zoom office hours]({{site.url}}{{site.baseurl}}/schedule) _every day Monday through Friday in the mornings, afternoons, and evenings_. 
 
@@ -366,7 +377,7 @@ Below are the main ways for you to ask for help (from fastest to slowest respons
     * Please, follow the posted forum guidelines (a pinned post) to make it easier for us to respond. 
     * We cannot guarantee that last-minute posts before a deadline would receive a timely response, so please **start early** and plan your work accordingly. 
 
-* we have a fully-anonymous form where you can ask questions or send your suggestions: <https://forms.gle/jobjhJjWXsmcV3pp6>
+<!--* we have a fully-anonymous form where you can ask questions or send your suggestions: {{ site.anon_form }}-->
 
 #### How do I send a direct message to TAs or professor?
 
