@@ -32,3 +32,10 @@ Sat, Mar 18
 : **11:59pm**  ⏰  Due: **LA09**{: .label .label-green }
 : **11:59pm**  ⏰  Due: ** [Project Checkpoint2](https://ucsb-csw8.github.io/w23-project/checkpoint2/)**{: .label .label-green }
 
+
+# Finals Week
+
+Fri, Mar 24
+: **11:59pm**  ⏰  Due: **LA10**{: .label .label-green }
+: **11:59pm**  ⏰  Due: ** [Final Project Submission](https://ucsb-csw8.github.io/w23-project/checkpoint3/)**{: .label .label-green }
+
