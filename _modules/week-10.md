@@ -8,16 +8,15 @@ Sun, Mar 12
 
 Mon, Mar 13
 : 09:30am **Class**{: .label .label-purple }
-: **11:59pm**  ⏰  Due: **LA09**{: .label .label-green }
 
 
 Tue, Mar 14
 : **Lab sections**{: .label .label-purple }
-: **11:59pm**  ⏰  Due: **LA Checkpoint**{: .label .label-green }
 
 
 Wed, Mar 15
-: 09:30am **Class**{: .label .label-purple } **Quiz**{: .label .label-red}
+: 09:30am **Class**{: .label .label-purple } 
+: **11:59pm**  ⏰  Due: ** [Project Checkpoint1](https://ucsb-csw8.github.io/w23-project/checkpoint1/)**{: .label .label-green }
 
 
 Thu, Mar 16
@@ -30,5 +29,6 @@ Fri, Mar 17
 
 Sat, Mar 18
 : **11:59pm**  ⏰  Due: **PA10**{: .label .label-orange }, **CA10**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
-
+: **11:59pm**  ⏰  Due: **LA09**{: .label .label-green }
+: **11:59pm**  ⏰  Due: ** [Project Checkpoint2](https://ucsb-csw8.github.io/w23-project/checkpoint2/)**{: .label .label-green }
 
